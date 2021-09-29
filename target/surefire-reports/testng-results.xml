@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="87394" started-at="2021-09-28T13:06:17Z" finished-at="2021-09-28T13:07:45Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="87394" started-at="2021-09-28T13:06:17Z" finished-at="2021-09-28T13:07:45Z">
+      <class name="com.testOperations.HomeSearchTest">
+        <test-method status="PASS" signature="testWebDriver()[pri:0, instance:com.testOperations.HomeSearchTest@527e5409]" name="testWebDriver" is-config="true" duration-ms="10980" started-at="2021-09-28T13:06:17Z" finished-at="2021-09-28T13:06:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWebDriver -->
+        <test-method status="PASS" signature="startTest()[pri:0, instance:com.testOperations.HomeSearchTest@527e5409]" name="startTest" is-config="true" duration-ms="418" started-at="2021-09-28T13:06:28Z" finished-at="2021-09-28T13:06:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method status="PASS" signature="testExcelRead()[pri:1, instance:com.testOperations.HomeSearchTest@527e5409]" name="testExcelRead" duration-ms="2929" started-at="2021-09-28T13:06:29Z" finished-at="2021-09-28T13:06:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testExcelRead -->
+        <test-method status="PASS" signature="testStatusLog(org.testng.ITestResult)[pri:0, instance:com.testOperations.HomeSearchTest@527e5409]" name="testStatusLog" is-config="true" duration-ms="4" started-at="2021-09-28T13:06:32Z" finished-at="2021-09-28T13:06:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testExcelRead status=SUCCESS method=HomeSearchTest.testExcelRead()[pri:1, instance:com.testOperations.HomeSearchTest@527e5409] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStatusLog -->
+        <test-method status="PASS" signature="testSite()[pri:2, instance:com.testOperations.HomeSearchTest@527e5409]" name="testSite" duration-ms="195" started-at="2021-09-28T13:06:32Z" finished-at="2021-09-28T13:06:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSite -->
+        <test-method status="PASS" signature="testStatusLog(org.testng.ITestResult)[pri:0, instance:com.testOperations.HomeSearchTest@527e5409]" name="testStatusLog" is-config="true" duration-ms="0" started-at="2021-09-28T13:06:32Z" finished-at="2021-09-28T13:06:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testSite status=SUCCESS method=HomeSearchTest.testSite()[pri:2, instance:com.testOperations.HomeSearchTest@527e5409] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStatusLog -->
+        <test-method status="PASS" signature="testSearchCity()[pri:3, instance:com.testOperations.HomeSearchTest@527e5409]" name="testSearchCity" duration-ms="10130" started-at="2021-09-28T13:06:32Z" finished-at="2021-09-28T13:06:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchCity -->
+        <test-method status="PASS" signature="testStatusLog(org.testng.ITestResult)[pri:0, instance:com.testOperations.HomeSearchTest@527e5409]" name="testStatusLog" is-config="true" duration-ms="1" started-at="2021-09-28T13:06:42Z" finished-at="2021-09-28T13:06:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testSearchCity status=SUCCESS method=HomeSearchTest.testSearchCity()[pri:3, instance:com.testOperations.HomeSearchTest@527e5409] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStatusLog -->
+        <test-method status="PASS" signature="testSearchHldyHome()[pri:4, instance:com.testOperations.HomeSearchTest@527e5409]" name="testSearchHldyHome" duration-ms="13090" started-at="2021-09-28T13:06:42Z" finished-at="2021-09-28T13:06:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSearchHldyHome -->
+        <test-method status="PASS" signature="testStatusLog(org.testng.ITestResult)[pri:0, instance:com.testOperations.HomeSearchTest@527e5409]" name="testStatusLog" is-config="true" duration-ms="1" started-at="2021-09-28T13:06:55Z" finished-at="2021-09-28T13:06:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testSearchHldyHome status=SUCCESS method=HomeSearchTest.testSearchHldyHome()[pri:4, instance:com.testOperations.HomeSearchTest@527e5409] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStatusLog -->
+        <test-method status="PASS" signature="testDateSelection()[pri:5, instance:com.testOperations.HomeSearchTest@527e5409]" name="testDateSelection" duration-ms="16731" started-at="2021-09-28T13:06:55Z" finished-at="2021-09-28T13:07:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDateSelection -->
+        <test-method status="PASS" signature="testStatusLog(org.testng.ITestResult)[pri:0, instance:com.testOperations.HomeSearchTest@527e5409]" name="testStatusLog" is-config="true" duration-ms="0" started-at="2021-09-28T13:07:12Z" finished-at="2021-09-28T13:07:12Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testDateSelection status=SUCCESS method=HomeSearchTest.testDateSelection()[pri:5, instance:com.testOperations.HomeSearchTest@527e5409] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStatusLog -->
+        <test-method status="PASS" signature="testGuestSelection()[pri:6, instance:com.testOperations.HomeSearchTest@527e5409]" name="testGuestSelection" duration-ms="10686" started-at="2021-09-28T13:07:12Z" finished-at="2021-09-28T13:07:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testGuestSelection -->
+        <test-method status="PASS" signature="testStatusLog(org.testng.ITestResult)[pri:0, instance:com.testOperations.HomeSearchTest@527e5409]" name="testStatusLog" is-config="true" duration-ms="1" started-at="2021-09-28T13:07:23Z" finished-at="2021-09-28T13:07:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testGuestSelection status=SUCCESS method=HomeSearchTest.testGuestSelection()[pri:6, instance:com.testOperations.HomeSearchTest@527e5409] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStatusLog -->
+        <test-method status="PASS" signature="testSortBy()[pri:7, instance:com.testOperations.HomeSearchTest@527e5409]" name="testSortBy" duration-ms="9581" started-at="2021-09-28T13:07:23Z" finished-at="2021-09-28T13:07:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testSortBy -->
+        <test-method status="PASS" signature="testStatusLog(org.testng.ITestResult)[pri:0, instance:com.testOperations.HomeSearchTest@527e5409]" name="testStatusLog" is-config="true" duration-ms="1" started-at="2021-09-28T13:07:32Z" finished-at="2021-09-28T13:07:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testSortBy status=SUCCESS method=HomeSearchTest.testSortBy()[pri:7, instance:com.testOperations.HomeSearchTest@527e5409] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStatusLog -->
+        <test-method status="PASS" signature="testAmmenitiesFilter()[pri:8, instance:com.testOperations.HomeSearchTest@527e5409]" name="testAmmenitiesFilter" duration-ms="9527" started-at="2021-09-28T13:07:32Z" finished-at="2021-09-28T13:07:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAmmenitiesFilter -->
+        <test-method status="PASS" signature="testStatusLog(org.testng.ITestResult)[pri:0, instance:com.testOperations.HomeSearchTest@527e5409]" name="testStatusLog" is-config="true" duration-ms="1" started-at="2021-09-28T13:07:42Z" finished-at="2021-09-28T13:07:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testAmmenitiesFilter status=SUCCESS method=HomeSearchTest.testAmmenitiesFilter()[pri:8, instance:com.testOperations.HomeSearchTest@527e5409] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStatusLog -->
+        <test-method status="PASS" signature="testWirteExcelFile()[pri:9, instance:com.testOperations.HomeSearchTest@527e5409]" name="testWirteExcelFile" duration-ms="1898" started-at="2021-09-28T13:07:42Z" finished-at="2021-09-28T13:07:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testWirteExcelFile -->
+        <test-method status="PASS" signature="endTest()[pri:0, instance:com.testOperations.HomeSearchTest@527e5409]" name="endTest" is-config="true" duration-ms="550" started-at="2021-09-28T13:07:44Z" finished-at="2021-09-28T13:07:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method status="PASS" signature="testStatusLog(org.testng.ITestResult)[pri:0, instance:com.testOperations.HomeSearchTest@527e5409]" name="testStatusLog" is-config="true" duration-ms="0" started-at="2021-09-28T13:07:44Z" finished-at="2021-09-28T13:07:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=testWirteExcelFile status=SUCCESS method=HomeSearchTest.testWirteExcelFile()[pri:9, instance:com.testOperations.HomeSearchTest@527e5409] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testStatusLog -->
+        <test-method status="PASS" signature="stopWebDriver()[pri:0, instance:com.testOperations.HomeSearchTest@527e5409]" name="stopWebDriver" is-config="true" duration-ms="595" started-at="2021-09-28T13:07:44Z" finished-at="2021-09-28T13:07:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- stopWebDriver -->
+      </class> <!-- com.testOperations.HomeSearchTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
